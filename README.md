@@ -1,6 +1,3 @@
-Aqui está a versão atualizada do README com a adição da comparação entre as abordagens em Java e Python:
-
----
 
 # Projeto: Sistema de Consultas e Filtros de Tabelas de Banco de Dados Oracle
 [Link_github](https://github.com/Pontessxx/Dynamic-Sprint-Oracle)
